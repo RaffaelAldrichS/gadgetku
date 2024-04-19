@@ -23,8 +23,8 @@
       </div>
 
       <div class="lc-block d-grid gap-1 d-md-flex justify-content-md-start">
-        <a class="btn bg-hijau px-4 me-md-2 rounded-5 text-putih" href="#" role="button">Product</a>
-        <a class="btn bg-putih px-4 rounded-5 text-hitam" href="#" role="button">Support</a>
+        <a class="btn bg-hijau px-4 me-md-2 rounded-5 text-putih" href="./products.php" role="button">Product</a>
+        <a class="btn bg-putih px-4 rounded-5 text-hitam" href="./support.php" role="button">Support</a>
       </div>
     </div>
   </div>

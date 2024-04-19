@@ -9,7 +9,7 @@
                             <h6>Smartphone</h6>
                             <h3>Infinix Note 40 Pro</h3>
                             <p>Get the Infinix Note 40 Pro now and unlock unparalleled performance and style, revolutionizing your smartphone experience.</p>
-                            <a href="./pages/products.php" class="link-offset-2 link-underline link-underline-opacity-0">Detail Product</a>
+                            <a href="./detailProduct.php" class="link-offset-2 link-underline link-underline-opacity-0">Detail Product</a>
                         </div>
                     </div>
                 </div>
