@@ -1,1 +1,8 @@
 nama_smartphone: Iphone, id_brand: 1,ram 123, storage: 123, ukuran_layar: 123, resolusi_kamera 123123,baterai: 123123,harga: 12313223, gambar: 6645c749e537a.jpg, deskripsi: asdasdasd
+nama_smartphone: Vivo Y25, id_brand: 6,ram 6, storage: 128, ukuran_layar: 6.78, resolusi_kamera 40 MP,baterai: 5000,harga: 2500000, gambar: 66520534d4bf1.jpg, deskripsi: asdasdasd
+nama_smartphone: Vivo Y25, id_brand: 6,ram 6, storage: 128, ukuran_layar: 6.78, resolusi_kamera 40 MP,baterai: 5000,harga: 2500000, gambar: 665206ba601cd.jpg, deskripsi: asdasdasd
+nama_smartphone: Vivo Y25, id_brand: 6,ram 6, storage: 128, ukuran_layar: 6.78, resolusi_kamera 40 MP,baterai: 5000,harga: 2500000, gambar: 665206ca60ac0.jpg, deskripsi: asdasdasd
+nama_smartphone: tREST, id_brand: 7,ram 123, storage: 123, ukuran_layar: 123, resolusi_kamera 123,baterai: 123,harga: 123123, gambar: 6652080cee63b.jpg, deskripsi: ASDASDAD
+nama_smartphone: ASDASD, id_brand: 1,ram 123, storage: 123, ukuran_layar: 123, resolusi_kamera 123,baterai: 123123,harga: 123123, gambar: 66520833a1dc2.jpg, deskripsi: 123123123
+nama_smartphone: Redmi Note 8, id_brand: 4,ram 4, storage: 64, ukuran_layar: 6, resolusi_kamera 48 MP,baterai: 4000,harga: 2000000, gambar: 665210240b706.jpg, deskripsi: Test
+nama_smartphone: Xiaomi, id_brand: 5,ram 2312, storage: 123123, ukuran_layar: 123123, resolusi_kamera 123123,baterai: 123123,harga: 123123123, gambar: 665214b8bc5df.jpg, deskripsi: asdasdasd

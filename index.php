@@ -35,6 +35,10 @@
                     require('modules/addProducts.php');
                 } else if ($target == 'brandProducts') {
                     require('modules/brandProducts.php');
+                } else if ($target == 'editProduct') {
+                    require('modules/editProduct.php');
+                } else if ($target == 'deleteProduct') {
+                    require('modules/deleteProduct.php');
                 }
             } else {
                 require('modules/homepage.php');

@@ -43,10 +43,6 @@ if (isset($_POST["submit"])) {
                         <option value="11">Tecno</option>
                     </select>
                 </div>
-                <div class="mb-3">
-                    <label for="os" class="form-label">Operating System</label>
-                    <input type="text" class="form-control" id="os" placeholder="" name="os" />
-                </div>
                 <div class="row g-3 mb-3">
                     <div class="col">
                         <label for="ram" class="form-label">Ram</label>
@@ -83,7 +79,24 @@ if (isset($_POST["submit"])) {
                 </div>
                 <div class="mb-3">
                     <div class="col-12">
-                        <button type="submit" class="btn btn-primary" name="submit">Add</button>
+                        <button data-bs-toggle="modal" data-bs-target="#exampleModal" type="button" class="btn btn-primary">Add</button>
+                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="exampleModalLabel">Add Product Confirmation</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        Are you sure you want to add this product?
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                        <button type="submit" class="btn btn-primary" name="submit">Yes, Add Product</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </form>
