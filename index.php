@@ -31,6 +31,10 @@
                     require('modules/hitungKredit.php');
                 } else if ($target == 'formSimulasi') {
                     require('modules/formSimulasi.php');
+                } else if ($target == 'addProducts') {
+                    require('modules/addProducts.php');
+                } else if ($target == 'brandProducts') {
+                    require('modules/brandProducts.php');
                 }
             } else {
                 require('modules/homepage.php');

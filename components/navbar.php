@@ -9,8 +9,14 @@
         <li class="nav-item">
           <a class="nav-link fs-5 fw-medium text-hitam" aria-current="page" href="index.php?target=homepage">Home</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link fs-5 fw-medium text-hitam" href="index.php?target=products">Products</a>
+        <li class="nav-item dropdown">
+          <button class="nav-link fs-5 fw-medium text-hitam dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+            Products
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="index.php?target=products">Show Products</a></li>
+            <li><a class="dropdown-item" href="index.php?target=addProducts">Add Products</a></li>
+          </ul>
         </li>
         <li class="nav-item">
           <a class="nav-link fs-5 fw-medium text-hitam" href="index.php?target=support">Support</a>

@@ -1,0 +1,1 @@
+nama_smartphone: Iphone, id_brand: 1,ram 123, storage: 123, ukuran_layar: 123, resolusi_kamera 123123,baterai: 123123,harga: 12313223, gambar: 6645c749e537a.jpg, deskripsi: asdasdasd
